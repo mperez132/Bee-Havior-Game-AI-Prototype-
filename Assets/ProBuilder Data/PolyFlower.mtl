@@ -1,0 +1,12 @@
+newmtl FlowerMaterial
+Kd 1 0.4386792 0.8774648
+d 1
+
+newmtl New_Material
+Kd 0.8301887 0.238875 0.238875
+d 1
+
+newmtl StemMaterial
+Kd 0.2111331 0.9245283 0.07413671
+d 1
+

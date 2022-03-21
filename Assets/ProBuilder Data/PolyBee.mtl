@@ -1,0 +1,12 @@
+newmtl BeeMaterial
+Kd 1 0.8470589 0
+d 1
+
+newmtl SimpleNaturePack_BG
+Kd 0.735849 0.735849 0.735849
+d 1
+
+newmtl MountainMaterial
+Kd 0.2358491 0.2358491 0.2358491
+d 1
+
